@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on !
 - 📫 How to reach me forgohill@gmail.com and https://t.me/forgohill
 
+[https://www.codewars.com/users/forgohill/badges/small]
 
 <!---
 forgohill/forgohill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -5,7 +5,7 @@
 - 📫 How to reach me forgohill@gmail.com and https://t.me/forgohill
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-
+![image](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg)
 ![image](https://www.codewars.com/users/forgohill/badges/small)
 
 <!---

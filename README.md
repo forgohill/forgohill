@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning JavaScript and CSS
 - 💞️ I’m looking to collaborate on !
 - 📫 How to reach me forgohill@gmail.com and https://t.me/forgohill
-<i class="devicon-javascript-plain"></i>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+
 
 [https://www.codewars.com/users/forgohill/badges/small]
 

@@ -2,7 +2,7 @@
 - 👀 I’m interested in front-end development
 - 🌱 I’m currently learning JavaScript and CSS
 - 💞️ I’m looking to collaborate on !
-- 📫 How to reach me forgohill@gmail.com and https://t.me/forgohill
+- 📫 How to reach me forgohill@gmail.com and [telegram](https://t.me/forgohill)
 - [VKONTAKTE](https://vk.com/marlo)
 - [Whatsapp](https://web.whatsapp.com/send?phone=79092876006)
 - [INSTAGRAM](https://www.instagram.com/forgohill/)

@@ -3,7 +3,9 @@
 - 🌱 I’m currently learning JavaScript and CSS
 - 💞️ I’m looking to collaborate on !
 - 📫 How to reach me forgohill@gmail.com and https://t.me/forgohill
-- VKONTAKTE(https://vk.com/marlo)
+- [VKONTAKTE](https://vk.com/marlo)
+- [Whatsapp](https://web.whatsapp.com/send?phone=79092876006)
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" style="width: 64px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" style="width: 64px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" style="width: 64px"/>
 
           

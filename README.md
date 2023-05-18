@@ -6,7 +6,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
 
-[!https://www.codewars.com/users/forgohill/badges/small]
+![image](https://www.codewars.com/users/forgohill/badges/small)
 
 <!---
 forgohill/forgohill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

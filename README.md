@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on !
 - 📫 How to reach me forgohill@gmail.com and https://t.me/forgohill
 - 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" style="width: 128px"/>
           
 ![image](https://www.codewars.com/users/forgohill/badges/small)
 

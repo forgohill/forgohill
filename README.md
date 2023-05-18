@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning JavaScript and CSS
 - 💞️ I’m looking to collaborate on !
 - 📫 How to reach me forgohill@gmail.com and https://t.me/forgohill
+<i class="devicon-javascript-plain"></i>
 
 [https://www.codewars.com/users/forgohill/badges/small]
 

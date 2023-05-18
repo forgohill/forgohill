@@ -5,7 +5,7 @@
 - 📫 How to reach me forgohill@gmail.com and https://t.me/forgohill
 - [VKONTAKTE](https://vk.com/marlo)
 - [Whatsapp](https://web.whatsapp.com/send?phone=79092876006)
-
+- [INSTAGRAM](https://www.instagram.com/forgohill/)
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" style="width: 64px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" style="width: 64px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" style="width: 64px"/>
 
           

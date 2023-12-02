@@ -42,25 +42,26 @@
 
 -->
 ---
-### :hammer_and_wrench: Languages and Tools :
-
+### 🛠️ Languages and Tools :
+<div align="left">
 <img src="./src/img/tolls_icons/javascript-plain.svg" style="width: 48px"/>
 <img src="./src/img/tolls_icons/html5-plain.svg" style="width: 48px"/>
 <img src="./src/img/tolls_icons/css3-plain.svg" style="width: 48px"/>
 <img src="./src/img/tolls_icons/react-original.svg" style="width: 48px"/>
 <img src="./src//img//tolls_icons/mongodb-original.svg" style="width: 48px"/>
 <img src="./src/img/tolls_icons/express-original.svg" style="width: 48px"/>
+</div>
 
 ---
 
-### :fire: My Stats :
+### 🔥 My Stats :
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=forgohill&theme=dark&hide_border=true&locale=ru)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=forgohill&layout=compact&theme=vision-friendly-dark)
 
 ---
-### :rocket: My training :
+### 🚀 My training :
 
 ![image](https://www.codewars.com/users/forgohill/badges/small)
 

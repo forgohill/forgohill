@@ -12,7 +12,7 @@
 
           
 ![image](https://www.codewars.com/users/forgohill/badges/small)
-
+![image](https://raw.githubusercontent.com/forgohill/forgohill/main/src/img/octopus_bartender.webp)
 <!---
 forgohill/forgohill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

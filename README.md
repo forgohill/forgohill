@@ -25,7 +25,7 @@
   <img src="./src//img/background.avif" width="640" height="300"/>
 </div>
 
-### :man_technologist: About Me :
+### 👨‍💻 About Me :
 
 - 👋 Привет, меня зовут Александр.
 - 👀 Мой интерес — front-end

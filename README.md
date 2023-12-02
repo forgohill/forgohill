@@ -14,10 +14,12 @@
   <a target='_blank' rel='noreferrer' href="https://vk.com/marlo">
   <img src="https://img.shields.io/badge/вконтакте-blue?style=for-the-badge&logo=VK&logoColor=white" alt="Вконтакте Badge"/>
   </a>
-
-  <img src="https://komarev.com/ghpvc/?username=forgohill&style=flat-square&color=000000" alt="background about me"/>
 </div>
- 
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=forgohill&style=flat-square&color=000000" alt="background about me"/>
+</div> 
+
 <h1 align="center">
   Приветствую <img src="./src/img/rockets.gif" width="30px"/>
 </h1>
